@@ -1,6 +1,6 @@
 ## I am glad You are Here!
 
-Hello World! I am Sandeep Kumar Mishra and I invite you to explore this website I created using github.
+Hello World! I am Sandeep Kumar Mishra and I invite you to explore this website I created using github. Link to [Google](https://google.com).
 
 ### New to Markdown
 
