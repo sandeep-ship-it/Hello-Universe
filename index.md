@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## I am glad You are Here!
 
-You can use the [editor on GitHub](https://github.com/sandeep-ship-it/first_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello World! I am Sandeep Kumar Mishra and I invite you to explore this website I created using github.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### New to Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,6 +22,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+```
+
+```cpp
+vector<vector<int>> dp(5, vector<int> (6, -1));
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
